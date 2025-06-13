@@ -1,0 +1,2 @@
+# BlazorInventoryManagementSystem
+DemoBlazorInventoryManagementSystem using .NET 
